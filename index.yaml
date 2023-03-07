@@ -3,12 +3,12 @@ entries:
   vmonitor-metric-agent:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-07T23:07:45.581578765+07:00"
+    created: "2023-03-07T23:23:07.376480891+07:00"
     description: A Helm chart for Kubernetes
-    digest: 0c7d611e6c5345f0c0ec133357884b22dceb9b68f9c3de60a0a19a83a19b9c86
+    digest: 22959b84ecc8cd4a62a48a3cb541c5c40414f8895fe88fcc7e9cc947334e27ac
     name: vmonitor-metric-agent
     type: application
     urls:
-    - vmonitor-metric-agent-0.1.0.tgz
-    version: 0.1.0
-generated: "2023-03-07T23:07:45.580173776+07:00"
+    - vmonitor-metric-agent-0.1.1.tgz
+    version: 0.1.1
+generated: "2023-03-07T23:23:07.375517388+07:00"
